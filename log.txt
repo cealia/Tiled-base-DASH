@@ -1,0 +1,349 @@
+[DASH] Downloading http://ironman.cs.nthu.edu.tw/shark_25/mpd.mpd starting at UTC 1536480902108 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw/shark_25/mpd.mpd complete at UTC 1536480902202 ms
+
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/dash_set1_init.mp4 starting at UTC 1536480902204 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/dash_set1_init.mp4 complete at UTC 1536480902299 ms
+
+0
+UTC 1536480902332 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track1_1.m4s starting at UTC 1536480902332 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track1_1.m4s complete at UTC 1536480902356 ms
+
+UTC 1536480902356 ms
+group->groups_depending_on
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track2_1.m4s starting at UTC 1536480902357 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track2_1.m4s complete at UTC 1536480902383 ms
+
+UTC 1536480902383 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track3_1.m4s starting at UTC 1536480902383 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track3_1.m4s complete at UTC 1536480902408 ms
+
+UTC 1536480902408 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track4_1.m4s starting at UTC 1536480902408 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track4_1.m4s complete at UTC 1536480902433 ms
+
+UTC 1536480902433 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track5_1.m4s starting at UTC 1536480902433 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track5_1.m4s complete at UTC 1536480902459 ms
+
+UTC 1536480902459 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track6_1.m4s starting at UTC 1536480902459 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track6_1.m4s complete at UTC 1536480902486 ms
+
+UTC 1536480902486 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track7_1.m4s starting at UTC 1536480902486 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track7_1.m4s complete at UTC 1536480902516 ms
+
+UTC 1536480902516 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track8_1.m4s starting at UTC 1536480902516 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track8_1.m4s complete at UTC 1536480902542 ms
+
+UTC 1536480902542 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track9_1.m4s starting at UTC 1536480902542 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track9_1.m4s complete at UTC 1536480902569 ms
+
+UTC 1536480902569 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track10_1.m4s starting at UTC 1536480902569 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track10_1.m4s complete at UTC 1536480902594 ms
+
+UTC 1536480902594 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track11_1.m4s starting at UTC 1536480902594 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track11_1.m4s complete at UTC 1536480902620 ms
+
+UTC 1536480902620 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track12_1.m4s starting at UTC 1536480902620 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track12_1.m4s complete at UTC 1536480902649 ms
+
+UTC 1536480902649 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track13_1.m4s starting at UTC 1536480902649 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track13_1.m4s complete at UTC 1536480902680 ms
+
+UTC 1536480902680 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track14_1.m4s starting at UTC 1536480902680 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track14_1.m4s complete at UTC 1536480902711 ms
+
+UTC 1536480902711 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track15_1.m4s starting at UTC 1536480902711 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track15_1.m4s complete at UTC 1536480902737 ms
+
+UTC 1536480902737 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track16_1.m4s starting at UTC 1536480902737 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track16_1.m4s complete at UTC 1536480902761 ms
+
+UTC 1536480902761 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track17_1.m4s starting at UTC 1536480902761 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track17_1.m4s complete at UTC 1536480902791 ms
+
+UTC 1536480902791 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track18_1.m4s starting at UTC 1536480902791 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track18_1.m4s complete at UTC 1536480902816 ms
+
+UTC 1536480902816 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track19_1.m4s starting at UTC 1536480902816 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track19_1.m4s complete at UTC 1536480902843 ms
+
+UTC 1536480902843 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track20_1.m4s starting at UTC 1536480902843 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track20_1.m4s complete at UTC 1536480902872 ms
+
+UTC 1536480902872 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track21_1.m4s starting at UTC 1536480902872 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track21_1.m4s complete at UTC 1536480902901 ms
+
+UTC 1536480902901 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track22_1.m4s starting at UTC 1536480902901 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track22_1.m4s complete at UTC 1536480902928 ms
+
+UTC 1536480902928 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track23_1.m4s starting at UTC 1536480902928 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track23_1.m4s complete at UTC 1536480902958 ms
+
+UTC 1536480902958 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track24_1.m4s starting at UTC 1536480902958 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track24_1.m4s complete at UTC 1536480902982 ms
+
+UTC 1536480902982 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track25_1.m4s starting at UTC 1536480902982 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track25_1.m4s complete at UTC 1536480903007 ms
+
+UTC 1536480903007 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track26_1.m4s starting at UTC 1536480903007 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track26_1.m4s complete at UTC 1536480903036 ms
+
+UTC 1536480903036 ms
+================================================================================
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+0
+UTC 1536480903052 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track1_2.m4s starting at UTC 1536480903052 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track1_2.m4s complete at UTC 1536480903078 ms
+
+UTC 1536480903078 ms
+group->groups_depending_on
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track2_2.m4s starting at UTC 1536480903078 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track2_2.m4s complete at UTC 1536480903126 ms
+
+UTC 1536480903126 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track3_2.m4s starting at UTC 1536480903127 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track3_2.m4s complete at UTC 1536480903177 ms
+
+UTC 1536480903177 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track4_2.m4s starting at UTC 1536480903178 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track4_2.m4s complete at UTC 1536480903233 ms
+
+UTC 1536480903233 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track5_2.m4s starting at UTC 1536480903233 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track5_2.m4s complete at UTC 1536480903289 ms
+
+UTC 1536480903289 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track6_2.m4s starting at UTC 1536480903289 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track6_2.m4s complete at UTC 1536480903345 ms
+
+UTC 1536480903345 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track7_2.m4s starting at UTC 1536480903345 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track7_2.m4s complete at UTC 1536480903402 ms
+
+UTC 1536480903402 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track8_2.m4s starting at UTC 1536480903402 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track8_2.m4s complete at UTC 1536480903471 ms
+
+UTC 1536480903471 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/high_dash_track9_2.m4s starting at UTC 1536480903471 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/high_dash_track9_2.m4s complete at UTC 1536480903615 ms
+
+UTC 1536480903615 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track10_2.m4s starting at UTC 1536480903615 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track10_2.m4s complete at UTC 1536480903651 ms
+
+UTC 1536480903651 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track11_2.m4s starting at UTC 1536480903651 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track11_2.m4s complete at UTC 1536480903683 ms
+
+UTC 1536480903683 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track12_2.m4s starting at UTC 1536480903683 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track12_2.m4s complete at UTC 1536480903719 ms
+
+UTC 1536480903719 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track13_2.m4s starting at UTC 1536480903719 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track13_2.m4s complete at UTC 1536480903758 ms
+
+UTC 1536480903758 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track14_2.m4s starting at UTC 1536480903758 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track14_2.m4s complete at UTC 1536480903800 ms
+
+UTC 1536480903800 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track15_2.m4s starting at UTC 1536480903800 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track15_2.m4s complete at UTC 1536480903845 ms
+
+UTC 1536480903845 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track16_2.m4s starting at UTC 1536480903846 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track16_2.m4s complete at UTC 1536480903885 ms
+
+UTC 1536480903885 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track17_2.m4s starting at UTC 1536480903885 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track17_2.m4s complete at UTC 1536480903946 ms
+
+UTC 1536480903946 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track18_2.m4s starting at UTC 1536480903946 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track18_2.m4s complete at UTC 1536480903975 ms
+
+UTC 1536480903975 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track19_2.m4s starting at UTC 1536480903975 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track19_2.m4s complete at UTC 1536480904003 ms
+
+UTC 1536480904003 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track20_2.m4s starting at UTC 1536480904003 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track20_2.m4s complete at UTC 1536480904058 ms
+
+UTC 1536480904058 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track21_2.m4s starting at UTC 1536480904058 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track21_2.m4s complete at UTC 1536480904123 ms
+
+UTC 1536480904123 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track22_2.m4s starting at UTC 1536480904124 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track22_2.m4s complete at UTC 1536480904153 ms
+
+UTC 1536480904153 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track23_2.m4s starting at UTC 1536480904153 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track23_2.m4s complete at UTC 1536480904186 ms
+
+UTC 1536480904186 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track24_2.m4s starting at UTC 1536480904186 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track24_2.m4s complete at UTC 1536480904214 ms
+
+UTC 1536480904214 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track25_2.m4s starting at UTC 1536480904214 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track25_2.m4s complete at UTC 1536480904252 ms
+
+UTC 1536480904252 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track26_2.m4s starting at UTC 1536480904252 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/mid_dash_track26_2.m4s complete at UTC 1536480904288 ms
+
+UTC 1536480904288 ms
+================================================================================
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+0
+UTC 1536480904299 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track1_3.m4s starting at UTC 1536480904299 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track1_3.m4s complete at UTC 1536480904323 ms
+
+UTC 1536480904323 ms
+group->groups_depending_on
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track2_3.m4s starting at UTC 1536480904323 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track2_3.m4s complete at UTC 1536480904350 ms
+
+UTC 1536480904350 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track3_3.m4s starting at UTC 1536480904350 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track3_3.m4s complete at UTC 1536480904375 ms
+
+UTC 1536480904375 ms
+!group->current_dep_idx
+[DASH] Downloading http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track4_3.m4s starting at UTC 1536480904375 ms
+[DASH] Download http://ironman.cs.nthu.edu.tw:80/shark_25/low_dash_track4_3.m4s complete at UTC 1536480904402 ms
+
+UTC 1536480904402 ms
+!group->current_dep_idx
+[DASH] Downloading http://
